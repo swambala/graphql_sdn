@@ -1,0 +1,11 @@
+{
+   "name": "APIC_EM_GraphQL",
+   "version": "1.0.0",
+   "description": "GraphQL server for Cisco Application Policy Infrastructure Controller Enterprise Module",
+   "main": "server.js",
+   "dependencies": {
+   "express": "^4.13.3",
+   "express-graphql": "^0.5.3",
+   "graphql": "^0.6.2",
+   "graphql-relay": "^0.3.1"  }
+}
